@@ -13,7 +13,7 @@ An interactive **Flashcard Quiz App** for Android that helps users study effecti
 
 ## Screenshots
 
-<img width="1080" height="2220" alt="Screenshot_20251220_221831" src="https://github.com/user-attachments/assets/ad8f0a4b-1fc2-4b0b-ab4b-0dc1bbcc0550" />
+<img width="1000" height="1000" alt="Screenshot_20251220_221831" src="https://github.com/user-attachments/assets/ad8f0a4b-1fc2-4b0b-ab4b-0dc1bbcc0550" />
 
 
 ## Technologies Used
@@ -23,8 +23,3 @@ An interactive **Flashcard Quiz App** for Android that helps users study effecti
 - XML
 - Android SDK
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/harsh6054/flashcard-quiz-app.git
