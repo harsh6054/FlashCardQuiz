@@ -1,2 +1,30 @@
-# CodeAlpha_FlashCardQuiz
-An Android app that helps users study using flashcards. Users can view questions and answers, navigate between flashcards, and manage their own study cards by adding, editing, or deleting them. Features a colorful, interactive, and user-friendly interface.
+# Flashcard Quiz App
+
+An interactive **Flashcard Quiz App** for Android that helps users study effectively using digital flashcards.
+
+## Features
+
+- **Show Answer:** Flip flashcards to see the answer for each question.
+- **Navigation:** Easily move between flashcards using Next and Previous buttons.
+- **Add/Edit/Delete Flashcards:** Customize your flashcards by adding new ones, editing existing ones, or deleting them.
+- **Interactive UI:** Colorful flashcards and buttons to enhance the learning experience.
+- **Random Flashcard Colors:** Each flashcard displays with a different background color for visual appeal.
+- **Simple and Clean Design:** Easy to use and intuitive interface for all users.
+
+## Screenshots
+
+<img width="1080" height="2220" alt="Screenshot_20251220_221831" src="https://github.com/user-attachments/assets/ad8f0a4b-1fc2-4b0b-ab4b-0dc1bbcc0550" />
+
+
+## Technologies Used
+
+- Android Studio
+- Java
+- XML
+- Android SDK
+
+## How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/harsh6054/flashcard-quiz-app.git
