@@ -15,8 +15,6 @@ An interactive **Flashcard Quiz App** for Android that helps users study effecti
 ## Screenshots
 
 <img width="1000" height="1000" alt="Screenshot_20251220_221831" src="https://github.com/user-attachments/assets/ad8f0a4b-1fc2-4b0b-ab4b-0dc1bbcc0550" />
-
-
 ## Technologies Used
 
 - Android Studio
