@@ -27,7 +27,3 @@ An interactive **Flashcard Quiz App** for Android that helps users study effecti
 
 
 
-
-
-
-
